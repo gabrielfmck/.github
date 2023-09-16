@@ -1,3 +1,17 @@
 [
-    "dodgeberus"
+    {
+      "sponsor": {
+        "login": "dodgeberus",
+        "name": "geberus",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/145164712?v=4",
+        "type": "User",
+        "avatarUrlHighRes": "https://avatars.githubusercontent.com/u/145164712?v=4",
+        "avatarUrlMediumRes": "https://avatars.githubusercontent.com/u/145164712?v=4"
+      },
+      "isOneTime": false,
+      "monthlyDollars": 1,
+      "privacyLevel": "PUBLIC",
+      "tierName": "$1 a month",
+      "createdAt": "2023-09-15T21:23:15Z"
+    }
 ]
